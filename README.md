@@ -9,7 +9,7 @@ In this i have tried implementing ML KIT 2 features
 * Firebase setup'd project 
 * Tensor Flow Model
 * Mehnat xD 
- various Resources from where i have learnt : 
+ # various Resources from where i have learnt : 
  * https://firebase.google.com/docs/ml-kit/recognize-text \n
  * https://firebase.google.com/docs/ml-kit/android/use-custom-models
  * Google Codelabs 
