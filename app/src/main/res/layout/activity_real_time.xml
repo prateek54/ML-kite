@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="dev.prateek.com.facedetection.TextDetection">
+
+    <com.wonderkiln.camerakit.CameraView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:adjustViewBounds="true"
+        android:id="@+id/rcamView"
+        android:layout_above="@+id/cameraBtn"
+        />
+
+    <dev.prateek.com.facedetection.GraphicOveraly.GraphicOverlay
+        android:id="@+id/rgraphic_overlay"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+       android:layout_above="@+id/rcameraBtn"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:text="Identify"
+        android:id="@+id/rcameraBtn"
+        android:layout_alignParentBottom="true"/>
+</RelativeLayout>

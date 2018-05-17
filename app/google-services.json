@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "65772056651",
+    "firebase_url": "https://ml-kit-618e5.firebaseio.com",
+    "project_id": "ml-kit-618e5",
+    "storage_bucket": "ml-kit-618e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65772056651:android:e345be26dbb5762a",
+        "android_client_info": {
+          "package_name": "dev.prateek.com.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65772056651-prfm9gv597d2r3otpamalafl18ah5b7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVUIE-3Riz08GKCEp5u3wIWe0ki0RYVJI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
